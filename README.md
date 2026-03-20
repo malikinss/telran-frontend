@@ -66,7 +66,9 @@ A simple library management system in JavaScript using ES modules and OOP. Suppo
 
 ## JS DOM
 
-### [Homework 15 – ](https://github.com/malikinss/telran-frontend-15)
+### [Homework 15 – Library Management with DOM](https://github.com/malikinss/telran-frontend-15)
+
+An interactive library management system built with JavaScript ES6 modules and DOM manipulation. Users can add books via prompts, and the library dynamically renders a numbered list of books on the web page. Demonstrates OOP, input validation, modular design, and dynamic HTML updates.
 
 ## JS EVENT
 
