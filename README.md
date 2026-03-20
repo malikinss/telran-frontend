@@ -72,7 +72,9 @@ An interactive library management system built with JavaScript ES6 modules and D
 
 ## JS EVENT
 
-### [Homework 16 – ](https://github.com/malikinss/telran-frontend-16)
+### [Homework 16 – Animation & Image Gallery](https://github.com/malikinss/telran-frontend-16)
+
+A vanilla JavaScript project demonstrating animation and interactive image gallery. Includes a moving box that reverses direction at container boundaries and a modular gallery with Next/Previous navigation. Focuses on DOM manipulation, timers, state management, and modular ES6 architecture.
 
 ### [Homework 17 – ](https://github.com/malikinss/telran-frontend-17)
 
