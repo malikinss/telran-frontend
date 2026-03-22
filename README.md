@@ -76,7 +76,8 @@ An interactive library management system built with JavaScript ES6 modules and D
 
 A vanilla JavaScript project demonstrating animation and interactive image gallery. Includes a moving box that reverses direction at container boundaries and a modular gallery with Next/Previous navigation. Focuses on DOM manipulation, timers, state management, and modular ES6 architecture.
 
-### [Homework 17 – ](https://github.com/malikinss/telran-frontend-17)
+### [Homework 17 – Library Management System](https://github.com/malikinss/telran-frontend-17)
+A dynamic, form-based library management system built with vanilla JavaScript. Users can add and delete books, enforce unique ISBNs, and see a live-updating numbered list. Demonstrates DOM manipulation, event handling, object-oriented design, and modular ES6 architecture.
 
 ### [Homework 18 – ](https://github.com/malikinss/telran-frontend-18)
 
