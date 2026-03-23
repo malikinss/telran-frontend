@@ -79,7 +79,8 @@ A vanilla JavaScript project demonstrating animation and interactive image galle
 ### [Homework 17 – Library Management System](https://github.com/malikinss/telran-frontend-17)
 A dynamic, form-based library management system built with vanilla JavaScript. Users can add and delete books, enforce unique ISBNs, and see a live-updating numbered list. Demonstrates DOM manipulation, event handling, object-oriented design, and modular ES6 architecture.
 
-### [Homework 18 – ](https://github.com/malikinss/telran-frontend-18)
+### [Homework 18 – Library Management System (Statistics)](https://github.com/malikinss/telran-frontend-18)
+An enhanced library management system in vanilla JavaScript featuring real-time statistics for books. Users can add and delete books, enforce unique ISBNs, and see dynamic average, minimum, and maximum publication years. Demonstrates DOM manipulation, ES6 modules, OOP, and live data aggregation.
 
 ### [Homework 19 – ](https://github.com/malikinss/telran-frontend-19)
 
