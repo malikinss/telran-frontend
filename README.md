@@ -82,6 +82,7 @@ A dynamic, form-based library management system built with vanilla JavaScript. U
 ### [Homework 18 – Library Management System (Statistics)](https://github.com/malikinss/telran-frontend-18)
 An enhanced library management system in vanilla JavaScript featuring real-time statistics for books. Users can add and delete books, enforce unique ISBNs, and see dynamic average, minimum, and maximum publication years. Demonstrates DOM manipulation, ES6 modules, OOP, and live data aggregation.
 
-### [Homework 19 – ](https://github.com/malikinss/telran-frontend-19)
+### [Homework 19 – Persons Management System](https://github.com/malikinss/telran-frontend-19)
+Modular Persons Management System in vanilla JavaScript. Allows adding, deleting, and viewing employee records with real-time statistics (min, max, avg age) and dynamic DOM updates. Demonstrates OOP, form validation, and interactive UI skills.
 
 ### [Homework 20 – ](https://github.com/malikinss/telran-frontend-20)
